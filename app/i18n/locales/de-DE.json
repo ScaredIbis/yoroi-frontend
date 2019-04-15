@@ -137,7 +137,7 @@
   "settings.support.reportProblem.content": "Wenn die FAQs nicht zur Hilfe des aufgetretenen Problems beitragen, benutze bitte die {supportRequestLink} Funktion.",
   "settings.support.reportProblem.link": "Support-Anfrage",
   "settings.support.reportProblem.title": "Ein Problem melden",
-  "testnet.label.message": "WARNING: This is a {network} network. ADA has no monetary value here. For more information, check out the FAQ at {faqLink}",
+  "testnet.label.message": "WARNUNG: Dies ist ein {network}-Netzwerk. ADA hat hier keinen Geldwert. Weitere Informationen hierzu findest Du in den FAQ unter {faqLink}",
   "transfer.form.errors.invalidRecoveryPhrase": "Ungültige Wiederherstellungs-Phrase",
   "transfer.form.instructions.step1.text": "Es wird ungefähr eine Minute dauern, um deinen Kontostand wiederherzustellen. Im nächsten Schritt wird eine Transaktion angezeigt, die dein gesamtes Guthaben transferiert. Bitte überprüfe die Details der Transaktion sehr sorgfältig. Es ist notwendig, für diese Transaktion eine Standard-Transaktionsgebühr im Cardano-Netzwerk zu bezahlen.",
   "transfer.form.masterkey.input.hint": "Generalschlüssel eingeben",
