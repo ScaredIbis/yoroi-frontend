@@ -137,7 +137,7 @@
   "settings.support.reportProblem.content": "「よくある質問」で問題が解決しない場合は、{supportRequestLink}機能を使用してください。",
   "settings.support.reportProblem.link": "サポート依頼",
   "settings.support.reportProblem.title": "問題を報告する",
-  "testnet.label.message": "WARNING: This is a {network} network. ADA has no monetary value here. For more information, check out the FAQ at {faqLink}",
+  "testnet.label.message": "注意：{network}上のADAには貨幣価値がありません。詳細は、FAQ({faqLink})をご参照ください。",
   "transfer.form.errors.invalidRecoveryPhrase": "復元フレーズが無効です",
   "transfer.form.instructions.step1.text": "残高が復元されるまで1分程度かかります。復元後、ダイダロスウォレットからヨロイウォレットへの送金取引が表示されます。トランザクションの詳細を慎重に確認してください。 取引を行うには、Cardanoネットワークの標準トランザクション手数料を支払う必要があります。",
   "transfer.form.masterkey.input.hint": "マスターキーを入力",
